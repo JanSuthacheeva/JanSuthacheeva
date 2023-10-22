@@ -9,7 +9,7 @@
 	
 ## About me
 
-<picture> <img align="right" src="https://raw.githubusercontent.com/JanPomelo/janpomelo/main/portrait_2.webp" width = 250px></picture>
+<picture> <img align="right" style='border-radius: 20px' src="https://raw.githubusercontent.com/JanPomelo/janpomelo/main/coding.png" width = 250px></picture>
 
 <br>
 
