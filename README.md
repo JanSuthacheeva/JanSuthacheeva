@@ -10,7 +10,7 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## About me
 
 <picture> <img align="right" src="https://raw.githubusercontent.com/JanPomelo/janpomelo/main/portrait_2.webp" width = 250px></picture>
 
@@ -97,14 +97,13 @@
   </a>
 </div>
 <br>
-<br>
-<br>
-<br>
 
-## <b> Want to Connect?</b><img src="" width ="80">
+
+## <b> Want to Connect?</b>
 <br>
 <div align='left'>
 
+<p>I am always happy to connect with like-minded people. If you want to chat about coding or do a project together with me, go ahead and write me!</p>
 <ul>
 
 <li>
