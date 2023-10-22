@@ -17,7 +17,7 @@
 - Former Lead Consultant in the Area of Simulationmodels in Automotive Industry
 - Currently learning Web Development with [The Odin Project](https://www.theodinproject.com)
 - Personal website [link](https://www.janpomelo.com)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume]()
+- I’m currently open for an Intern or a new job opportunity, this is [my CV](CV-Jan-Steikowski.pdf)
 
 <br><br>
 
