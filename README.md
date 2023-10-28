@@ -7,7 +7,7 @@
 
 <br>
 	
-## <img src="https://media3.giphy.com/media/QsCxLxfVPtGA8JWMen/giphy.webp?cid=b03b009duwt70ccxtrlvhtofypif8na4motdbb83gw3tkt9p&ep=v1_gifs_gifId&rid=giphy.webp&ct=s" height="20"/><b> About me</b>
+## <img src="https://media3.giphy.com/media/QsCxLxfVPtGA8JWMen/giphy.webp?cid=b03b009duwt70ccxtrlvhtofypif8na4motdbb83gw3tkt9p&ep=v1_gifs_gifId&rid=giphy.webp&ct=s" height="20"/><b> About me </b>
 
 <picture> <img align="right" style='border-radius: 20px' src="https://raw.githubusercontent.com/JanPomelo/janpomelo/main/coding.png" width = 250px></picture>
 
@@ -21,11 +21,11 @@
 
 <br><br>
 
-## <img src="https://media4.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.webp?cid=b03b009dd7vjcyqacv20wv1bd6esw7vsmqy4hivoijuls7tx&ep=v1_gifs_gifId&rid=giphy.webp&ct=s" height ="20"><b> Skills</b>
+## <img src="https://media4.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.webp?cid=b03b009dd7vjcyqacv20wv1bd6esw7vsmqy4hivoijuls7tx&ep=v1_gifs_gifId&rid=giphy.webp&ct=s" height ="20"><b> Skills </b>
 <br>
 <p align="center">
   
-### <img src="https://media4.giphy.com/media/VJ65NK5synjTaL4D0I/giphy.webp?cid=b03b009d9s8t7jn004cbybeu2av3fzsq3qh6mpz5v5pwp039&ep=v1_gifs_gifId&rid=giphy.webp&ct=s" height ="20"> <b> Technical Skills:</b>
+### <img src="https://media4.giphy.com/media/VJ65NK5synjTaL4D0I/giphy.webp?cid=b03b009d9s8t7jn004cbybeu2av3fzsq3qh6mpz5v5pwp039&ep=v1_gifs_gifId&rid=giphy.webp&ct=s" height ="20"> <b> Technical Skills: </b>
 
 - **Languages:**
 
@@ -45,7 +45,7 @@
 
 <br>
 
-- **Tools & Extras:**:
+- **Tools & Extras:**
   
     ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -58,7 +58,7 @@
     
 <br>
 
-### <img src="https://media0.giphy.com/media/nvqVfzEX1cL8E2YrMQ/giphy.webp?cid=b03b009dm0s88hpw5be3gxv3awblm1drk9dtjidak62oxo4s&ep=v1_gifs_gifId&rid=giphy.webp&ct=s" height='20' > <b> Soft Skills:</b>
+### <img src="https://media0.giphy.com/media/nvqVfzEX1cL8E2YrMQ/giphy.webp?cid=b03b009dm0s88hpw5be3gxv3awblm1drk9dtjidak62oxo4s&ep=v1_gifs_gifId&rid=giphy.webp&ct=s" height='20' > <b> Soft Skills: </b>
 
   - Empathy
   - Time Management
@@ -67,7 +67,7 @@
 
 <br>
 
-### <img src="https://media1.giphy.com/media/HVofJOWFXGpDX4xeg1/giphy.webp?cid=b03b009d7wijd21iv2eipy5gcu3uarc6670vyzuxwsvuo422&ep=v1_gifs_gifId&rid=giphy.webp&ct=s" height='20' ><b> Language Skills:</b>
+### <img src="https://media1.giphy.com/media/HVofJOWFXGpDX4xeg1/giphy.webp?cid=b03b009d7wijd21iv2eipy5gcu3uarc6670vyzuxwsvuo422&ep=v1_gifs_gifId&rid=giphy.webp&ct=s" height='20' ><b> Language Skills: </b>
 
   - German (native Speaker)
   - English (fluent)
@@ -82,10 +82,6 @@
 
 <div align="center">
 
-<a href="https://github.com/janpomelo/">
-  <img src="https://github-readme-stats.vercel.app/api?username=janpomelo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  </a>
-</div>
 <div align="center">
   <a href="https://github.com/janpomelo/">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janpomelo&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="JanPomelo"/>
@@ -94,7 +90,7 @@
 <br>
 
 
-## <img src="https://media3.giphy.com/media/KtHYHsCSQurUc7Kuf3/giphy.webp?cid=b03b009dgth9l5prkw1xfk2cgc4d72uo53ze7ukcbesmsjmg&ep=v1_gifs_gifId&rid=giphy.webp&ct=s" height='20' ><b> Want to Connect?</b>
+## <img src="https://media3.giphy.com/media/KtHYHsCSQurUc7Kuf3/giphy.webp?cid=b03b009dgth9l5prkw1xfk2cgc4d72uo53ze7ukcbesmsjmg&ep=v1_gifs_gifId&rid=giphy.webp&ct=s" height='20' ><b> Want to Connect? </b>
 <br>
 <div align='left'>
 
