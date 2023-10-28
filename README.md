@@ -7,7 +7,7 @@
 
 <br>
 	
-## <img src="https://media3.giphy.com/media/QsCxLxfVPtGA8JWMen/giphy.gif?cid=b03b009duwt70ccxtrlvhtofypif8na4motdbb83gw3tkt9p&ep=v1_gifs_gifId&rid=giphy.gif" width="25"/><b> About me</b>
+## <img src="https://media3.giphy.com/media/QsCxLxfVPtGA8JWMen/giphy.webp?cid=b03b009duwt70ccxtrlvhtofypif8na4motdbb83gw3tkt9p&ep=v1_gifs_gifId&rid=giphy.webp&ct=s" width="25"/><b> About me</b>
 
 <picture> <img align="right" style='border-radius: 20px' src="https://raw.githubusercontent.com/JanPomelo/janpomelo/main/coding.png" width = 250px></picture>
 
