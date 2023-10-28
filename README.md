@@ -25,7 +25,7 @@
 <br>
 <p align="center">
   
-### Technical Skills:
+### <img src="https://media4.giphy.com/media/VJ65NK5synjTaL4D0I/giphy.webp?cid=b03b009d9s8t7jn004cbybeu2av3fzsq3qh6mpz5v5pwp039&ep=v1_gifs_gifId&rid=giphy.webp&ct=s" height ="20"> <b> Technical Skills:</b>
 
 - **Languages:**
 
@@ -58,7 +58,7 @@
     
 <br>
 
-### Soft Skills:
+### <img src="https://media0.giphy.com/media/nvqVfzEX1cL8E2YrMQ/giphy.webp?cid=b03b009dm0s88hpw5be3gxv3awblm1drk9dtjidak62oxo4s&ep=v1_gifs_gifId&rid=giphy.webp&ct=s" height='20' > <b> Soft Skills:</b>
 
   - Empathy
   - Time Management
@@ -67,7 +67,7 @@
 
 <br>
 
-### Language Skills:
+### <img src="https://media1.giphy.com/media/HVofJOWFXGpDX4xeg1/giphy.webp?cid=b03b009d7wijd21iv2eipy5gcu3uarc6670vyzuxwsvuo422&ep=v1_gifs_gifId&rid=giphy.webp&ct=s" height='20' ><b> Language Skills:</b>
 
   - German (native Speaker)
   - English (fluent)
@@ -77,7 +77,7 @@
 <br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media0.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.webp?cid=b03b009dtwf9vr1a1r93nl6wgsed24qqhmmlbl58e2vvwp56&ep=v1_gifs_gifId&rid=giphy.webp&ct=s" height="20"><b> Github Stats </b>
 <br>
 
 <div align="center">
@@ -94,7 +94,7 @@
 <br>
 
 
-## <b> Want to Connect?</b>
+## <img src="https://media3.giphy.com/media/KtHYHsCSQurUc7Kuf3/giphy.webp?cid=b03b009dgth9l5prkw1xfk2cgc4d72uo53ze7ukcbesmsjmg&ep=v1_gifs_gifId&rid=giphy.webp&ct=s" height='20' ><b> Want to Connect?</b>
 <br>
 <div align='left'>
 
