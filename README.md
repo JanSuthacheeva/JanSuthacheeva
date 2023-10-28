@@ -7,7 +7,7 @@
 
 <br>
 	
-## <img src="https://media3.giphy.com/media/QsCxLxfVPtGA8JWMen/giphy.webp?cid=b03b009duwt70ccxtrlvhtofypif8na4motdbb83gw3tkt9p&ep=v1_gifs_gifId&rid=giphy.webp&ct=s" width="25"/><b> About me</b>
+## <img src="https://media3.giphy.com/media/QsCxLxfVPtGA8JWMen/giphy.webp?cid=b03b009duwt70ccxtrlvhtofypif8na4motdbb83gw3tkt9p&ep=v1_gifs_gifId&rid=giphy.webp&ct=s" height="20"/><b> About me</b>
 
 <picture> <img align="right" style='border-radius: 20px' src="https://raw.githubusercontent.com/JanPomelo/janpomelo/main/coding.png" width = 250px></picture>
 
@@ -21,7 +21,7 @@
 
 <br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media4.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.webp?cid=b03b009dd7vjcyqacv20wv1bd6esw7vsmqy4hivoijuls7tx&ep=v1_gifs_gifId&rid=giphy.webp&ct=s" height ="20"><b> Skills</b>
 <br>
 <p align="center">
   
