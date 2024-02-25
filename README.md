@@ -15,9 +15,9 @@
 
 - A passionate Self-Taught Full-Stack Developer
 - Former Lead Consultant in the Area of Simulationmodels in Automotive Industry
-- Currently learning Web Development with [The Odin Project](https://www.theodinproject.com)
+- Currently working at Buzzwoo Asia Co. Ltd. in Chiang Mai, Thailand
 - Personal website [link](https://www.janpomelo.com)
-- I’m currently open for an Intern or a new job opportunity, this is [my CV](CV-Jan-Steikowski.pdf)
+- I’m always open for collaborations and contributions or even new professional opportunities. This is [my CV](CV-Jan-Steikowski.pdf)
 
 <br><br>
 
