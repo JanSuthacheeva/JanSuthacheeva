@@ -16,7 +16,7 @@
 - A passionate Self-Taught Full-Stack Developer
 - Former Lead Consultant in the Area of Simulationmodels in Automotive Industry
 - Currently working at Buzzwoo Asia Co. Ltd. in Chiang Mai, Thailand
-- Personal website [link](https://www.janpomelo.com)
+- Personal [website](https://janpomelo.github.io/personal-portfolio/)
 - I’m always open for collaborations and contributions or even new professional opportunities. This is [my CV](CV-Jan-Steikowski.pdf)
 
 <br><br>
