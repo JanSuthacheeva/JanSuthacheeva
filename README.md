@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , my name is Jan Suthacheeva </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Self-Taught+Full-Stack-Developer...;Bachelor+of+Engineering...;Former+Lead+Consultant...;Motorsport+Enthusiast...;Lifelong+Learning+%3C3" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Self-Taught+Back-End-Developer...;Bachelor+of+Engineering...;Former+Lead+Consultant...;Motorsport+Enthusiast...;Lifelong+Learning+%3C3" alt="Typing SVG" /></a>
 </p>
 
 
@@ -13,10 +13,9 @@
 
 <br>
 
-- A passionate Self-Taught Full-Stack Developer
+- A passionate Self-Taught Back-End Developer
 - Former Lead Consultant in the Area of Simulationmodels in Automotive Industry
 - Currently working at Buzzwoo Asia Co. Ltd. in Chiang Mai, Thailand
-- Personal [website](https://janpomelo.github.io/personal-portfolio/)
 - I’m always open for collaborations and contributions or even new professional opportunities. This is [my CV](CV-Jan-Steikowski.pdf)
 
 <br><br>
@@ -29,21 +28,17 @@
 
 - **Languages:**
 
-    ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
     ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
     ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-    ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 <br>   
     
 - **Frameworks**:
   
    ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
    ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <br>
@@ -51,7 +46,6 @@
 - **Tools & Extras:**
   
     ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-    ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -88,7 +82,7 @@
 
 <div align="center">
   <a href="https://github.com/janpomelo/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janpomelo&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="JanPomelo"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jansuthacheeva&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="JanSuthacheeva"/>
   </a>
 </div>
 <br>
@@ -104,15 +98,15 @@
 
 <li>
 <a href="https://linkedin.com/in/jan-steikowski" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Jan%20Steikowski-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  Jan%20Suthacheeva-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <br>
 
 <li>
-<a href="mailto:j.steikowski@aol.com" target="_blank">
-<img src="https://img.shields.io/badge/mail:  Jan%20Steikowski-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt=mail style="margin-bottom: 5px;" />
+<a href="mailto:jan.suthacheeva@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/mail:  Jan%20Suthacheeva-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
