@@ -15,8 +15,9 @@
 
 - A passionate Self-Taught Back-End Developer
 - Former Lead Consultant in the Area of Simulationmodels in Automotive Industry
-- Currently working at Buzzwoo Asia Co. Ltd. in Chiang Mai, Thailand
-- I’m always open for collaborations and contributions or even new professional opportunities. This is [my CV](CV-Jan-Steikowski.pdf)
+- Currently working at Buzzwoo Asia Co. Ltd. in Chiang Mai, Thailand where I mainly use PHP/Laravel to develop Custom Backend solutions.
+- Personal projects will be written in Go.
+- I’m always open for collaborations and contributions or even new professional opportunities. 
 
 <br><br>
 
@@ -29,6 +30,7 @@
 - **Languages:**
 
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+    ![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
     ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
