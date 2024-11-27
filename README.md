@@ -16,7 +16,6 @@
 - A passionate Self-Taught Back-End Developer
 - Former Lead Consultant in the Area of Simulationmodels in Automotive Industry
 - Currently working at Buzzwoo Asia Co. Ltd. in Chiang Mai, Thailand where I mainly use PHP/Laravel to develop Custom Backend solutions.
-- Personal projects will be written in Go.
 - I’m always open for collaborations and contributions or even new professional opportunities. 
 
 <br><br>
