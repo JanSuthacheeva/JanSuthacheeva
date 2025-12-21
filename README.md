@@ -39,8 +39,8 @@
     
 - **Frameworks**:
 
-   ![Astro](https://img.shields.io/badge/Astro-ff5d01?style=for-the-badge&logo=astro&logoColor=ff5d0100&labelColor=191919)
-   ![Langchain](https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=green)
+   ![Astro](https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro)
+   ![Langchain](https://img.shields.io/badge/langchain-000000?style=for-the-badge&logo=langchain&color=1d3b39)
    ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
    ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
