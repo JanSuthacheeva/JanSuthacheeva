@@ -27,6 +27,7 @@
 ### <img src="https://media4.giphy.com/media/VJ65NK5synjTaL4D0I/giphy.webp?cid=b03b009d9s8t7jn004cbybeu2av3fzsq3qh6mpz5v5pwp039&ep=v1_gifs_gifId&rid=giphy.webp&ct=s" height ="20"> <b> Technical Skills: </b>
 
 - **Languages:**
+
     ![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
     ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
     ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
