@@ -38,7 +38,9 @@
 <br>   
     
 - **Frameworks**:
-  
+
+   ![Astro](https://img.shields.io/badge/Astro-ff5d01?style=for-the-badge&logo=astro&logoColor=ff5d0100&labelColor=191919)
+   ![Langchain](https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=green)
    ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
    ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
