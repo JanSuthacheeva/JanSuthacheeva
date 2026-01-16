@@ -80,10 +80,9 @@
 <div align="center">
 
 <div align="center">
-  <a href="https://github.com/jansuthacheeva/">
-  [![Jan's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JanSuthacheeva)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
-  </a>
+[![Jan's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JanSuthacheeva)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
 </div>
 <br>
 </div>
