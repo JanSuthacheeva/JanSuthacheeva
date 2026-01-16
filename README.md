@@ -81,7 +81,8 @@
 
 <div align="center">
   <a href="https://github.com/jansuthacheeva/">
-    <img src="[https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JanSuthacheeva](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JanSuthacheeva)" width="375"  alt="JanSuthacheeva"/>
+  [![Jan's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JanSuthacheeva)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
   </a>
 </div>
 <br>
