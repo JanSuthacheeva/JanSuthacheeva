@@ -81,7 +81,7 @@
 
 <div align="center">
 
-[![Jan's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JanSuthacheeva)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Jan's GitHub stats]([https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JanSuthacheeva](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JanSuthacheeva&hide=JavaScript,TypeScript,CSS))](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 </div>
 <br>
